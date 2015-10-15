@@ -1,5 +1,12 @@
 module Olim
-       where
+--       ( module Olim.Randomness
+-- module Olim.MusicalEntities
+-- module Olim.Scales
+-- module Olim.SoundProduction
+
+--       )
+where
+       
 octave = 2.0
 number_of_steps = 12
 semitones_in_a_tone = 2

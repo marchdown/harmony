@@ -1,4 +1,6 @@
 {-# LANGUAGE UnicodeSyntax #-}
+module Olim.Randomness
+       where
 import System.Random
 import Control.Monad (replicateM)
 

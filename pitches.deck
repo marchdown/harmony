@@ -1,0 +1,28 @@
+lowest MIDI note (0); 8.1758 Hz; C_{-1}
+middle C; 261.63 Hz; C4
+upper C on 88-key piano keyboard (& Axis!); 4.1860 kHz; C8
+highest MIDI note (127); 12543.9 Hz; G9
+
+alpha brainwaves; 8—12 Hz; C_{-2}—G_{-2}
+gamma brainwaves; >32 Hz; >B0
+
+cello highest string; 220 Hz; A3 (A below middle C)
+cello second highest string; 146.83 Hz; D3
+cello third highest string; 98 Hz; G2
+cello lowest string; 65.406 Hz; C2
+
+violin highest string; 659.2 (660 if not 700¢ but 701.9551¢ above A4) Hz; E5
+violin second highest string; 440 Hz; A4
+violin third highest string; 293.66 Hz; D4
+violin lowest string; 196 Hz; G3
+
+bass highest string; 98 Hz; G2
+bass second highest string; 73.416 Hz; D2
+bass third highest string; 55 Hz; A1
+bass lowest string in standard tuning; 41.203 Hz; E1
+bass lowest string in "C extension" tuning; 32.703 Hz; C1
+bass fifth (low) string; 30.868 Hz; B0
+
+lowest bass guitar string; 41.2 Hz; E1
+lowest bass guitar string in drop-D tuning; 36.7 Hz; D1
+
